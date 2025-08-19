@@ -1,5 +1,7 @@
 # TelecomX1_BR - Análise de Churn em Telecomunicações
 
+<img width="500" height="500" alt="bb9b4a07-c633-4b9d-a934-544b9b96d915" src="https://github.com/user-attachments/assets/93be9453-b294-440c-8c4a-843e6fb1902a" />
+
 ## 📋 Descrição do Projeto
 Este projeto realiza uma análise completa de dados de churn (evasão de clientes) de uma empresa de telecomunicações. O notebook contém um pipeline ETL (Extração, Transformação e Carga) completo com análises visuais para identificar padrões e fatores que influenciam o cancelamento de serviços.
 
